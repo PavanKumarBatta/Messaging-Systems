@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cts</groupId>
-	<artifactId>MessagingProject</artifactId>
+	<artifactId>OrderService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MessagingProject</name>
+	<name>OrderService</name>
 	<description>Demo project for Spring Boot messaging systems</description>
 	<url/>
 	<licenses>
@@ -38,7 +38,6 @@
 		<dependency>
 		    <groupId>org.apache.activemq</groupId>
 		    <artifactId>activemq-client</artifactId>
-		    
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
